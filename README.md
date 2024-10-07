@@ -2,7 +2,7 @@
 
 👩‍💻 I’m currently working on two projects on the topic of brain health: 
 - 🧠 **Neurological Impacts of Long COVID**: Analyzing MRI data to understand the impact of long COVID on brain structure and connectivity, focusing on various microstructual properties of white and grey matter. 
-- 👩‍🚀 **Astronaut Brain Health**: Exploring the effects of long-term exposure to microgravity on brain structure and function using astronaut MRI data. 
+- 👩‍🚀 **Neuroplasticity in Long-Term Microgravity**: Exploring the effects of long-term exposure to microgravity on brain structure and function using astronaut MRI data. 
 
 🌱 I’m currently learning about **Machine Learning**, diving into how it can be applied to data analysis in neuroscience and biophysics. 
 
